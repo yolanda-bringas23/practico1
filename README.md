@@ -2,3 +2,4 @@ escuela
 aulas
 laboratorios
 computadoras
+asdugudasodas

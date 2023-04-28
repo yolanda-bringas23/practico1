@@ -1,0 +1,4 @@
+escuela
+aulas
+laboratorios
+computadoras

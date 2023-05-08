@@ -1,0 +1,4 @@
+-computadora
+-teclado
+-mouse
+-pantalla
